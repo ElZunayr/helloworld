@@ -49,7 +49,8 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 
 ---
 
-Made with by EL Zunayr Development :wave: [Get in touch](https://elzunayr.github.io/helloworld/)
+Made with by EL Zunayr Development 
+Support El Zunayr :wave: [Get in touch](buymeacoffee.com/elzunayr)
 
 ## 🔗 References
 -
