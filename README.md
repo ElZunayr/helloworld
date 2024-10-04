@@ -18,12 +18,12 @@
 ---
 ## 💡 About the project
 My First Website
-- [Demo](#)
+- [Demo](https://elzunayr.github.io/helloworld/)
 
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](#), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://elzunayr.github.io/helloworld/), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
 git clone #
 ```
@@ -49,7 +49,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for more 
 
 ---
 
-Made with by EL Zunayr Development :wave: [Get in touch](#)
+Made with by EL Zunayr Development :wave: [Get in touch](https://elzunayr.github.io/helloworld/)
 
 ## 🔗 References
 -
